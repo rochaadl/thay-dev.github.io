@@ -1,24 +1,28 @@
-#olá, sou a Thays!
+Hello, I'm Thays!
 
-bem vindo ao meu Portifólio.
+Welcome to my Portfolio.
 
-# Sobre mim
-sou estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul, área que me permite transformar ideias em soluções por meio da tecnologia. 
-Durante minha formação, venho desenvolvendo conhecimentos técnicos e práticos relacionados à tecnologia, programação, desenvolvimento de sistemas, inteligência artificial, análise de problemas e criação de soluções digitais.
- Essas experiências contribuíram para ampliar minha visão sobre tecnologia e mostrar como ela pode ser utilizada para solucionar problemas reais.
- Minha trajetória acadêmica tem sido marcada por descobertas, desafios e evolução. Cada projeto me ajuda a desenvolver novas habilidades e a compreender melhor o profissional que quero me tornar.
+About Me
 
-Busco continuar aprendendo, aprimorando meus conhecimentos e adquirindo experiências que contribuam para minha entrada e crescimento no mercado de tecnologia.
+I am a Systems Analysis and Development student at unifran University, a field that allows me to turn ideas into solutions through technology.
 
-💡 Meu propósito
+Throughout my studies, I have been developing technical and practical knowledge related to technology, programming, systems development, artificial intelligence, problem analysis, and the creation of digital solutions.
 
-Quero utilizar a tecnologia para criar soluções que façam sentido para as pessoas e contribuam para transformar ideias em resultados.
+These experiences have broadened my perspective on technology and shown me how it can be used to solve real-world problems. My academic journey has been marked by discoveries, challenges, and growth. Each project helps me develop new skills and better understand the professional I want to become.
 
-Estou apenas começando, mas cada aprendizado de hoje constrói o profissional que quero ser amanhã.
+I am committed to continuing to learn, improving my knowledge, and gaining experiences that will contribute to my entry into and growth within the technology industry.
 
-##projetos
-**blog pessoal**- App web
+💡 My Purpose
 
-##contato 
-- E-mail: rochathays502@gmail.com
-- linkedln:thay-roc-b133582b3
+I want to use technology to create meaningful solutions for people and help transform ideas into results.
+
+I am just getting started, but every lesson I learn today helps build the professional I want to become tomorrow.
+
+Projects
+
+- Personal Blog – Web App
+
+Contact
+
+Email: rochathays502@gmail.com
+LinkedIn: thay-roc-b133582b3
